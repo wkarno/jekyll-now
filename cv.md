@@ -55,7 +55,7 @@ Arnold WK, Savage CR, Lethbridge KG, Smith TC, 2nd, Brissette CA, Seshu J, Steve
 
 Bobrov AG, Kirillina O, Fosso MY, Fetherston JD, Miller MC, VanCleave TT, Burlison JA, Arnold WK, Lawrenz MB,
 Garneau-Tsodikova S, Perry RD. 2017. Zinc transporters YbtX and ZnuABC are required for the virulence of *Yersinia
-pestis* in bubonic and pneumonic plague in mice. Metallomics 9:757-772.
+pestis* in bubonic and pneumonic plague in mice. Metallomics 9:757-772. doi.org/10.1039/C7MT00126F
 
 Arnold WK, Savage CR, Brissette CA, Seshu J, Livny J, et al. (2016) RNA-Seq of *Borrelia burgdorferi* in Multiple Phases
 of Growth Reveals Insights into the Dynamics of Gene Expression, Transcriptome Architecture, and Noncoding RNAs.
