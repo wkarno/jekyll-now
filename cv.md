@@ -7,16 +7,16 @@ permalink: /cv/
 #### Curriculum Vitae
 =====================
 
-#### William K. Arnold
+#### William K. Arnold Ph.D.
 ---------------------
 
-##### Updated [November, 27 2017]
+##### Updated [May 27, 2020]
 ----------------------------
 
 #### PERSONAL DETAILS
 --------------------
 
-Mailing Address: 800 Rose Street, Medical Science Building MN469, Lexington, KY 40536
+wkarno2 *at* gmail.com
 
 #### EDUCATION
 --------------
@@ -25,14 +25,16 @@ Mailing Address: 800 Rose Street, Medical Science Building MN469, Lexington, KY 
 
 B.S. Biology 		University of Kentucky	May 2011
 
-Ph.D. Microbiology, Immunology, and Molecular Genetics (Expected 2018)
+Ph.D. Microbiology, Immunology, and Molecular Genetics (July 2018)
 
 #### PROFESSIONAL EXPERIENCE
 --------------------------
 
 **Year(s), Job title, Location**
 
-May 2013 - Present, Graduate Research Assistant - Brian Stevenson Lab, Department of Microbiology, Immunology, and Molecular Genetics, University of Kentucky, Lexington, KY
+April 2018 - Present, Senior QC Scientist - Addgene, Watertown, MA
+
+May 2013 - July 2018, Graduate Research Assistant - Brian Stevenson Lab, Department of Microbiology, Immunology, and Molecular Genetics, University of Kentucky, Lexington, KY
 
 February 2012 - August 2012, Research Technician - Jeramiah Smith Lab, Department of Biology, University of Kentucky, Lexington, KY
 
@@ -44,6 +46,12 @@ May 2009 - May 2011, Research Assistant - Nancy Webb Lab, Department of Nutritio
 
 #### PUBLICATIONS
 ----------------
+
+Jutras, B.L., Savage, C.R., Arnold, W.K., Lethbridge, K.G., Carroll, D.W., Tilly, K., Bestor, A., Zhu, H., Seshu, J., Zückert, W.R., Stewart, P.E., Rosa, P.A., Brissette, C.A. and Stevenson, B. (2019), The Lyme disease spirochete's BpuR DNA/RNA‐binding protein is differentially expressed during the mammal–tick infectious cycle, which affects translation of the SodA superoxide dismutase. Mol Microbiol, 112: 973-991. doi:10.1111/mmi.14336
+
+Timothy Casselli, Yvonne Tourand, Adam Scheidegger, William K. Arnold, Anna Proulx, Brian Stevenson, Catherine A. Brissette. DNA Methylation by Restriction Modification Systems Affects the Global Transcriptome Profile in *Borrelia burgdorferi*. Journal of Bacteriology Nov 2018, 200 (24) e00395-18; DOI: 10.1128/JB.00395-18
+
+Arnold WK, Savage CR, Lethbridge KG, Smith TC, 2nd, Brissette CA, Seshu J, Stevenson, B. (2018) Transcriptomic insights on the virulencecontrolling CsrA, BadR, RpoN, and RpoS regulatory networks in the Lyme disease spirochete. PLoS ONE 13(8): e0203286. DOI: 10.1371/journal.pone.0203286
 
 Bobrov AG, Kirillina O, Fosso MY, Fetherston JD, Miller MC, VanCleave TT, Burlison JA, Arnold WK, Lawrenz MB,
 Garneau-Tsodikova S, Perry RD. 2017. Zinc transporters YbtX and ZnuABC are required for the virulence of *Yersinia
@@ -60,13 +68,18 @@ Savage CR, Arnold WK, Gjevre-Nail A, et al. Intracellular Concentrations of *Bor
 
 Arnold WK, Savage CR, Antonicello AD, Stevenson B. Apparent Role for *Borrelia burgdorferi* LuxS during Mammalian Infection. Infection and immunity 2015, 83(4): 1347-1353.
 
+#### Doctoral Dissertation
+------------------------------
+
+Arnold, William Kenneth, "INSIGHTS INTO KEY GENE REGULATORY NETWORKS IN BORRELIA BURGDORFERI" (2018). Theses and Dissertations--Microbiology, Immunology, and Molecular Genetics. 19. doi.org/10.13023/etd.2018.493
+
 
 #### PROFESSIONAL ORGANIZATIONS
 ------------------------------
 
 **Name of organization, year(s)**
 
-AAAS, 2016 - Current
+AAAS, 2016 - 2019
 
 #### HONORS AND AWARDS
 ---------------------
@@ -88,7 +101,7 @@ Best Poster Award – Microbiology, Immunology, and Molec. Genetics Ann. Retreat
 
 **Function, name of association, year(s)**
 
-Invited Reviewer – PloS One, FEMS Microbiology Letters
+Invited Reviewer – PloS One, FEMS Microbiology Letters, Frontiers Microbiology
 
 Science Fair Judge - Fayette County Public Schools. 2015 - 2017
 
